@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//szxx_spider/html_downloader.py=gb2312
+encoding//szxx_spider/html_parser.py=gb2312
+encoding//szxx_spider/pdf_outputer.py=gb2312
+encoding//szxx_spider/spider_main.py=gb2312
+encoding//szxx_spider/url_manager.py=gb2312
